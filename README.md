@@ -14,14 +14,14 @@ The goal of this project is to predict whether a tumor is malignant or benign ba
 ### **Confusion Matrix**  
 The confusion matrix shows the true vs. predicted classifications:  
 
-![Confusion Matrix](/Confusion Matrix.png)  
+![Confusion Matrix](/Confusion_Matrix.png)  
 
 ---
 
 ### **ROC Curve**  
 The ROC Curve visualizes the model's ability to distinguish between classes:  
 
-![ROC Curve](/ROC Curve.png)  
+![ROC Curve](/ROC_Curve.png)  
 
 ---
 
